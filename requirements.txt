@@ -1,0 +1,16 @@
+langchain_community
+tiktoken
+langchainhub
+langchain
+langgraph
+tavily-python
+python-dotenv
+langchain-nomic
+langchain-text-splitters
+streamlit
+langchain-openai
+ipykernel
+chromadb 
+pypdf
+uvicorn
+fastapi
